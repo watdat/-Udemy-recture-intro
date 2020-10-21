@@ -1,3 +1,8 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
 ファイルを変更してコミットしてみましょう。
+git add
+git commit
+git rm
+git status
+git diff
